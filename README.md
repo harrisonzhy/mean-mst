@@ -1,3 +1,3 @@
-# fast-msts
+# mean-mst
 
-A fast, cache-optimized Kruskal's algorithm to find the mean weight of Euclidean Minimum Spanning Trees (MSTs).
+Fast SIMD implementation of Kruskal's algorithm to find the mean weight of Euclidean Minimum Spanning Trees.
